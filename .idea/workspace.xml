@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed38b1e1-fc74-46a1-be92-f1c45139174e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/acero.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/img/bg-signup.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/img/bg-signup.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/img/demo-image-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/img/demo-image-01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/img/demo-image-02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/img/demo-image-02.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
@@ -13,6 +11,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,6 +29,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -32,6 +38,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lbarc\OneDrive - Universidad Pontificia Comillas\ICAI 7\PAT\practica3\docs" />
       <recent name="C:\Users\lbarc\OneDrive - Universidad Pontificia Comillas\ICAI 7\PAT\practica3" />
     </key>
   </component>
